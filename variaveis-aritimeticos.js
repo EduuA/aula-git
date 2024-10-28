@@ -38,11 +38,13 @@ console.log(potencia);
 let c = 12;
 
 //c = c + 3;
-c += 3;
+c++;
+//c += 3;
 console.log(c);
 
 //c = c - 3;
-c -= 3;
+c--;
+//c -= 3;
 console.log(c);
 
 //c = c * 3;
